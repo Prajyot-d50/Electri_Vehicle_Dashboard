@@ -2,6 +2,7 @@
 
 📊 Tableau Dashboard | 2025 Portfolio Project
 
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/13e6fa5c-92a1-4c7f-911b-956c244b2c9a)
 
 ---
 
@@ -22,24 +23,6 @@ State-wise Distribution
 Model Year Trends
 
 CAFV Eligibility Status
-
-
-
----
-
-📂 Files in the Repository
-
-ev_data.csv: Cleaned dataset (or dummy sample)
-
-electric_vehicle_dashboard.twb: Tableau workbook
-
-dashboard_screenshot.png: Snapshot of the dashboard
-
-insights.md: Key observations and business insights
-
-README.md: Project documentation
-
-
 
 ---
 
