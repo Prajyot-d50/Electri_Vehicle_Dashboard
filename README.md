@@ -1,6 +1,6 @@
 # Electric Vehicle Dashboard 🚗⚡
 
-📊 Tableau Dashboard | 2025 Portfolio Project
+📊 Tableau Dashboard |
 
 ![Dashboard 1 (1)](https://github.com/user-attachments/assets/13e6fa5c-92a1-4c7f-911b-956c244b2c9a)
 
