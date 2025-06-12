@@ -3,7 +3,7 @@
 📊 Tableau Dashboard |
 Link :- https://public.tableau.com/app/profile/prajyot.dabholkar/viz/electricvehicaldashboard/Dashboard1
 
-Screenshot :- ![Dashboard 1 (1)](https://github.com/user-attachments/assets/13e6fa5c-92a1-4c7f-911b-956c244b2c9a)
+**Screenshot**  ![Dashboard 1 (1)](https://github.com/user-attachments/assets/13e6fa5c-92a1-4c7f-911b-956c244b2c9a)
 
 ---
 
